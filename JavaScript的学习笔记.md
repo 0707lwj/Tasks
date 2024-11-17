@@ -166,4 +166,4 @@ console.log(result);
 ```
 
 
-也可以使用箭头函数，这是一种更简洁的定义函数的方式。例如：`` let multiply = (a, b) => a * b;`。
+也可以使用箭头函数，这是一种更简洁的定义函数的方式。例如：` let multiply = (a, b) => a * b;`。
