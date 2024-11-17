@@ -46,7 +46,7 @@
 
 * 示例：
 
-``` HTML
+```html
 <img src="./">
 ```
 
@@ -56,7 +56,7 @@
 
 * 示例：
 
-```HTML
+```html
 <audio src="" controls loop autoplay></audio>
 ```
 
@@ -66,7 +66,7 @@
 
 * 示例：
 
-```HTML
+```html
 <video src="" controls loop muted autoplay></video>
 <!-- 要自动播放autopiay必需要自动静音muted -->
 ```
@@ -82,10 +82,12 @@
 - 在页面中独占一行，从新的一行开始，并且占据父元素的整个宽度。
 - 可以设置宽度、高度、外边距和内边距等属性。常见的块级元素有 ` <div> `、 `<p>` 、` <h1>-<h6>` 、 `无序列表<ul>` 、 `有序列表 <ol>` 、`包裹内容 <li>` 等。
 - 示例：
-
+```html
 <h2>块级元素示例</h2>
 <div style="background-color: lightgray; width: 300px; height: 200px;">这是一个块级元素<div>
-```HTML
+```
+
+```html
 <ul>
     <li>666</li>
     <li>666</li>
