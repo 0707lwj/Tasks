@@ -127,7 +127,8 @@
 ```html
 <head>
     <link rel="stylesheet" type="text/css" href="styles.css">
-</head>```
+</head>
+```
 
 - 示例（styles.css）：
 
@@ -135,7 +136,8 @@
 p {
     color: blue;
     font-family: Arial, sans-serif;
-}```
+}
+```
 
 3. 内部样式表
 - 方式：在 HTML 文件的` <head> `部分使用` <style> `标签来定义样式规则。
@@ -148,4 +150,5 @@ p {
             color: green;
         }
     </style>
-</head>```
+</head>
+```
