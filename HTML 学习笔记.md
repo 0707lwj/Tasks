@@ -118,25 +118,31 @@
 
 `<p style="color: red; font-size: 20px;">`这段文字是红色的，字号为 20px。</p>
 
-
 2. 外部样式表
 
 - 步骤：
 - 创建一个 .css 文件，比如 styles.css ，在其中定义样式规则。
 - 在 HTML 文件的 `<head> `部分使用` <link>` 标签将 CSS 文件链接到 HTML 文件，例如：
 
-```html<head>
+```html
+<head>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>```
+
 - 示例（styles.css）：
-```htmlp {
+
+```html
+p {
     color: blue;
     font-family: Arial, sans-serif;
 }```
+
 3. 内部样式表
 - 方式：在 HTML 文件的` <head> `部分使用` <style> `标签来定义样式规则。
 - 示例：
-```html<head>
+
+```html
+<head>
     <style>
         h1 {
             color: green;
