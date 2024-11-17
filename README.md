@@ -7,3 +7,10 @@
 # 考核二
 * Github进阶学习笔记.md https://github.com/0707lwj/Tasks/blob/main/GitHub%20%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%9A.md
 * Hello.md https://github.com/0707lwj/Tasks/blob/main/hello.md
+# 考核三
+* HTML学习笔记.md
+https://github.com/0707lwj/Tasks/blob/main/HTML%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md
+* CSS学习笔记.md
+https://github.com/0707lwj/Tasks/blob/main/CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md
+* javascript学习笔记.md
+https://github.com/0707lwj/Tasks/blob/main/JavaScript%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md
