@@ -116,7 +116,7 @@
 - 方式：在 HTML 标签内使用 style 属性来设置样式。
 - 示例：
 
-<p style="color: red; font-size: 20px;">这段文字是红色的，字号为 20px。</p>
+```html<p style="color: red; font-size: 20px;">这段文字是红色的，字号为 20px。</p>
 
 
 2. 外部样式表
@@ -125,12 +125,12 @@
 - 创建一个 .css 文件，比如 styles.css ，在其中定义样式规则。
 - 在 HTML 文件的 <head> 部分使用 <link> 标签将 CSS 文件链接到 HTML 文件，例如：
 
-<head>
+```html<head>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 - 示例（styles.css）：
 
-p {
+```htmlp {
     color: blue;
     font-family: Arial, sans-serif;
 }
@@ -140,8 +140,7 @@ p {
 
 - 方式：在 HTML 文件的 <head> 部分使用 <style> 标签来定义样式规则。
 - 示例：
-
-<head>
+```html<head>
     <style>
         h1 {
             color: green;
