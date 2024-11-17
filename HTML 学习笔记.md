@@ -102,11 +102,11 @@
 
 - 特点：
 - 不会独占一行，它们在一行内依次排列，直到一行排不下才会换行。
-- 宽度和高度属性通常不起作用，其大小由内容决定。内边距和外边距在水平方向有效，但在垂直方向上，外边距和内边距可能不会按预期显示。常见的内联元素有 <a> 、 <span> 、 <strong> 、 <em> 、表单<input>等。
+- 宽度和高度属性通常不起作用，其大小由内容决定。内边距和外边距在水平方向有效，但在垂直方向上，外边距和内边距可能不会按预期显示。常见的内联元素有 `<a> `、` <span>` 、` <strong>` 、` <em>` 、`表单<input>`等。
 - 示例：
 
-<span style="background-color: yellow;">这是一个内联元素</span>
-<a href="#">这是一个链接（内联元素）</a>
+`<span style="background-color: yellow;">`这是一个内联元素`</span>`
+`<a href="#">`这是一个链接（内联元素）`</a>`
 
 
 三、HTML 标签的样式
@@ -116,34 +116,34 @@
 - 方式：在 HTML 标签内使用 style 属性来设置样式。
 - 示例：
 
-```html<p style="color: red; font-size: 20px;">这段文字是红色的，字号为 20px。</p>
+`<p style="color: red; font-size: 20px;">`这段文字是红色的，字号为 20px。</p>
 
 
 2. 外部样式表
 
 - 步骤：
 - 创建一个 .css 文件，比如 styles.css ，在其中定义样式规则。
-- 在 HTML 文件的 <head> 部分使用 <link> 标签将 CSS 文件链接到 HTML 文件，例如：
+- 在 HTML 文件的 `<head> `部分使用` <link>` 标签将 CSS 文件链接到 HTML 文件，例如：
 
-```html<head>
+`<head>
     <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
+</head>`
 - 示例（styles.css）：
 
-```htmlp {
+`p {
     color: blue;
     font-family: Arial, sans-serif;
-}
+}`
 
 
 3. 内部样式表
 
 - 方式：在 HTML 文件的 <head> 部分使用 <style> 标签来定义样式规则。
 - 示例：
-```html<head>
+`<head>
     <style>
         h1 {
             color: green;
         }
     </style>
-</head>
+</head>`
