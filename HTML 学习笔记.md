@@ -125,25 +125,21 @@
 - 创建一个 .css 文件，比如 styles.css ，在其中定义样式规则。
 - 在 HTML 文件的 `<head> `部分使用` <link>` 标签将 CSS 文件链接到 HTML 文件，例如：
 
-`<head>
+<head>
     <link rel="stylesheet" type="text/css" href="styles.css">
-</head>`
+</head>
 - 示例（styles.css）：
-
 `p {
     color: blue;
     font-family: Arial, sans-serif;
 }`
-
-
 3. 内部样式表
-
 - 方式：在 HTML 文件的` <head> `部分使用` <style> `标签来定义样式规则。
 - 示例：
-`<head>
+<head>
     <style>
         h1 {
             color: green;
         }
     </style>
-</head>`
+</head>
