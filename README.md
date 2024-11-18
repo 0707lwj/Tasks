@@ -11,4 +11,5 @@
 * HTML学习笔记.md https://github.com/0707lwj/Tasks/blob/main/HTML%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md
 * CSS学习笔记.md https://github.com/0707lwj/Tasks/blob/main/CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md
 * javascript学习笔记.md https://github.com/0707lwj/Tasks/blob/main/JavaScript%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md
-* 注册信息网页：https://github.com/0707lwj/Tasks/blob/main/%E6%B3%A8%E5%86%8C%E4%BF%A1%E6%81%AF%E7%BD%91%E9%A1%B5.html
+* 注册信息网页代码：https://github.com/0707lwj/Tasks/blob/main/%E6%B3%A8%E5%86%8C%E4%BF%A1%E6%81%AF%E7%BD%91%E9%A1%B5.html
+* 注册信息网页网址：https://0707lwj.github.io/Tasks/
